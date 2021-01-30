@@ -1,4 +1,4 @@
-#<P align="center">
+<P align="center">
 
 <img src="https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif" width="100%" alt="API Giphy logo"/>
 
@@ -30,10 +30,10 @@
 
 
 <p align="center">
-<a href="#"><img title="Bintang Pamungkas" src="https://img.shields.io/badge/BintangP_28-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Bintang Pamungkas" src="https://img.shields.io/badge/Bintang Pamungkas-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/BINTANG PAMUNGKAS"><img title="Author" src="https://img.shields.io/badge/AUTHOR: BintangP28-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/BintangP28"><img title="Author" src="https://img.shields.io/badge/AUTHOR: BintangP28-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/BintangP28"><img title="Rating" src="https://www.codefactor.io/repository/github/BintangP28/badge/main"></a>
@@ -50,7 +50,7 @@
 <details>
 
 Ini semua gratis, jangan pelit ⭐️ ya :D
-<p align="center"><a href="https://instagram.com/bintangp_28/" target="_blank">Chat me on Insta</a>.</p>
+<p align="center"><a href="https://instagram.com/bintangp_28" target="_blank">Chat me on Insta</a>.</p>
 </div>
 
 ## Getting Started
